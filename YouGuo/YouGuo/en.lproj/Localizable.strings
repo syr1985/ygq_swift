@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  YouGuo
+
+  Created by YM on 2017/7/23.
+  Copyright © 2017年 NewTouch. All rights reserved.
+*/
+
+HomeTitle       = "Home";
+FindTitle       = "Discovery";
+NewsTitle       = "Message";
+MineTitle       = "Profile";
+AuthCode        = "Verification Code";
+UserName        = "User Name";
+SexBoy          = "Boy";
+SexGirl         = "Girl";
+CurrentPhone    = "Phone Number";
+
+HotTitle        = "Hot";
+VideoTitle      = "Video";
+FocusTitle      = "Focus";
+
+RecommendTitle  = "Recommend";
+NearbyTitle     = "PeopleNearby";
